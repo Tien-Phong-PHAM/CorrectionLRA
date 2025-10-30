@@ -1,2 +1,4 @@
 numpy
-tifffile
+pandas
+openpyxl
+matplotlib
