@@ -1,0 +1,77 @@
+('/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+ 'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/build/CorrectionLRA/CorrectionLRA',
+ False,
+ False,
+ True,
+ None,
+ None,
+ False,
+ False,
+ None,
+ True,
+ False,
+ 'x86_64',
+ None,
+ None,
+ '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+ 'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/build/CorrectionLRA/CorrectionLRA.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/build/CorrectionLRA/PYZ-00.pyz',
+   'PYZ'),
+  ('python3.11/lib-dynload/_struct.cpython-311-darwin.so',
+   '/Users/josephpham/anaconda3/lib/python3.11/lib-dynload/_struct.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('python3.11/lib-dynload/zlib.cpython-311-darwin.so',
+   '/Users/josephpham/anaconda3/lib/python3.11/lib-dynload/zlib.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('struct',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/build/CorrectionLRA/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/build/CorrectionLRA/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/build/CorrectionLRA/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/build/CorrectionLRA/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/.venv/lib/python3.11/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/.venv/lib/python3.11/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/.venv/lib/python3.11/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/.venv/lib/python3.11/site-packages/PyInstaller/hooks/rthooks/pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/.venv/lib/python3.11/site-packages/PyInstaller/hooks/rthooks/pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('app_gui',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/app_gui.py',
+   'PYSOURCE')],
+ [],
+ False,
+ False,
+ 1761815033,
+ [('runw',
+   '/Users/josephpham/Library/CloudStorage/GoogleDrive-tienphong3656@gmail.com/Mon '
+   'Drive/DQPRM_2023-2025/S4/Logiciel/CorrectionLRA_App/.venv/lib/python3.11/site-packages/PyInstaller/bootloader/Darwin-64bit/runw',
+   'EXECUTABLE')],
+ '/Users/josephpham/anaconda3/lib/libpython3.11.dylib')
